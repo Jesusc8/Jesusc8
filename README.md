@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jesusc8](https://github.com/Jesusc8)
 
-- 💬 Ask me about **HTML, CSS, JavaScript,React, MySQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, MySQL, PHP, JQuery, MySQL**
 
 - 📫 How to reach me **jesusmcastror@gmail.com**
 
