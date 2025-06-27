@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jesus</h1>
-<h3 align="center">A passionate frontend developer from Madrid, Spain</h3>
+<h3 align="center">A passionate developer from Madrid, Spain</h3>
 
 <p align="left"> <a href="https://twitter.com/jesusscasstro" target="blank"><img src="https://img.shields.io/twitter/follow/jesusscasstro?logo=twitter&style=for-the-badge" alt="jesusscasstro" /></a> </p>
 
-- 🌱 I’m currently learning **React and NextJS**
+- 🌱 I’m currently learning **Symphony Framework and Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jesusc8](https://github.com/Jesusc8)
 
