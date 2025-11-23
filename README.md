@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jesusscasstro" target="blank"><img src="https://img.shields.io/twitter/follow/jesusscasstro?logo=twitter&style=for-the-badge" alt="jesusscasstro" /></a> </p>
 
-- 🌱 I’m currently learning **Symphony Framework and Laravel**
+- 🌱 I’m currently learning **PHP Frameworks like Symphony and Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jesusc8](https://github.com/Jesusc8)
 
